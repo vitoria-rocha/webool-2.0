@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2023-08-30T19:38:34.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0" etag="_dFIZYEf4WrqsSJ_03c0" version="21.7.1" type="google">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="l-Z14nm64uBghyJrJ2WL-41" target="B0FWZzs7V0p2wS3vXlWE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="l-Z14nm64uBghyJrJ2WL-41" target="B0FWZzs7V0p2wS3vXlWE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-Z14nm64uBghyJrJ2WL-41" value="Professor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="l-Z14nm64uBghyJrJ2WL-42" target="l-Z14nm64uBghyJrJ2WL-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-Z14nm64uBghyJrJ2WL-42" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-Z14nm64uBghyJrJ2WL-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-Z14nm64uBghyJrJ2WL-45" target="l-Z14nm64uBghyJrJ2WL-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-Z14nm64uBghyJrJ2WL-45" value="Visualiza a imagem e digita a letra em cada campo correspondente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="52.5" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="l-Z14nm64uBghyJrJ2WL-46" target="B0FWZzs7V0p2wS3vXlWE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="l-Z14nm64uBghyJrJ2WL-46" target="B0FWZzs7V0p2wS3vXlWE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-Z14nm64uBghyJrJ2WL-46" value="Letra correta?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="65" width="90" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-1" value="Apaga automaticamente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-90" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-3" value="nao" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="22.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-4" value="Próximo campo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="52.5" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Atividade de Língua Portuguesa&lt;br&gt;&lt;br&gt;Soletrando&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="305" y="-150" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-9" value="Próxima palavra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="265" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-11" value="sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="52.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0FWZzs7V0p2wS3vXlWE-12" value="Reproduz o áudio correspondente a letra inicial e a palavra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="142.5" width="180" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
