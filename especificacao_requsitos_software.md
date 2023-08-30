@@ -14,7 +14,7 @@ Este documento registra os requisitos detalhados do Sistema `WEBOOL 2.0 - Reenge
 
 #### 2.1 Aluno
 
-A classe de usuário "Estudante Deficiente Intelectual" compreende os alunos que possuem deficiência intelectual e utilizam o WEBOOL como parte de seu processo educacional. Esses estudantes têm características e responsabilidades específicas:
+A classe de usuário "Aluno" compreende os alunos que possuem deficiência intelectual e utilizam o WEBOOL como parte de seu processo educacional. Esses estudantes têm características e responsabilidades específicas:
 
 - **Responsabilidades:** Acessar atividades educacionais adaptadas às suas necessidades, interagir com o conteúdo por meio de elementos visuais e interativos, utilizar o recurso de Realidade Aumentada para enriquecer as experiências de aprendizado.
 
@@ -24,7 +24,7 @@ A classe de usuário "Estudante Deficiente Intelectual" compreende os alunos que
 
 #### 2.2 Professor
 
-A classe de usuário "Professor/Tutor" engloba os educadores que trabalham com os estudantes deficientes intelectuais, utilizando o WEBOOL como ferramenta de apoio. Os professores/tutores possuem as seguintes características e responsabilidades:
+A classe de usuário "Professor" engloba os educadores que trabalham com os estudantes deficientes intelectuais, utilizando o WEBOOL como ferramenta de apoio. Os professores/tutores possuem as seguintes características e responsabilidades:
 
 - **Responsabilidades:** Criar e adaptar atividades educacionais no sistema, monitorar o progresso dos estudantes, avaliar o desempenho dos alunos, proporcionar assistência e orientação durante as atividades.
 
